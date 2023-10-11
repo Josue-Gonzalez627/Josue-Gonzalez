@@ -1,6 +1,6 @@
 # Josue-Gonzalez
 ## My personal repository 👨‍💻
-### About me 👾
+### :octocat:About me 👾
 New to the world of code, in the San Antonio program Codeup, I am fast-tracking my progress to jump into Data Science.
 Can't wait to learn and share code with my fellow cohorts and future colleagues. 🖥
 
